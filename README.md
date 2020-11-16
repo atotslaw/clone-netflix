@@ -1,6 +1,6 @@
 # Olá, este é um mini projeto para fixação de conhecimentos em html e css3. 
 
-Esse é uma repordução da aula de html e css3 do professor Felipe Aguiar da DIO, em que fizemos um clone da interface básica do Netflix. 
+Esse é um projeto-exercício das aulas de html e css3 do professor Felipe Aguiar da DIO. Nele fizemos um clone da interface básica do Netflix. 
 
 Aplicamos uso de classes, variáveis de css, css querys, além de plugins externos, como o Owl Carousel e os ícones do Font Awsome. 
 Aplicamos resposividade no tamanho do site com as css queries, muuuuito legal!!
@@ -11,13 +11,11 @@ Agradecimentos ao professor Felipe.
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-Font Awsome:
-https://kit.fontawesome.com/37c6c5f4bf.js
-
+Font Awsome: https://kit.fontawesome.com/37c6c5f4bf.js
 JQuery;
-Owl carousel em jquery:
-"js/owl/owl.carousel.min.js
-
+Owl carousel em jquery: js/owl/owl.carousel.min.js
 Imagens de vários filmes e series para deixar o site interessante.
+
+Não temos código por trás do html, então é só baixar e executar o index.html.
 
 ## 🚀 Let's code! 🚀
